@@ -1,0 +1,98 @@
+body{
+    margin: 0%;
+    padding: 0%;
+}
+.header{
+    display: flex;
+    background-color: black;
+    align-items: center;
+    color: white;
+    justify-content: space-between;
+}
+.nav ul{
+    display: flex;
+    margin-right: 50px;
+}
+.nav li{
+    text-decoration: none;
+    list-style: none;
+    margin-right: 30px;
+}
+.nav li a{
+    list-style: none;
+    text-decoration: none;
+    padding: 20px;
+    color: white;
+    
+}
+.head{
+    margin-left: 160px;
+
+}
+.nav{
+    margin-right: 100px;
+}
+.pizza{
+    background: linear-gradient(45deg,black,red,black);
+    margin-top: 40px;
+    width: 40%;
+    border-radius: 50%;
+    text-align: center;
+    margin: auto;
+    padding: 10px;
+    color: white;
+    
+}
+.circle{
+    margin-top: 40px;
+}
+
+.image{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 250px;
+
+}
+.title{
+    text-align: center;
+}
+img{
+    width: 400px;
+    background-size: cover;
+    border-radius: 8px;
+    height: 233px;
+}
+.circle p span{
+    text-align: center;
+}
+.para{
+    text-align: center;
+}
+
+.side{
+    display: flex;
+    justify-content: space-between;
+    padding: 2px;
+}
+.sidebar img{
+    width: 300px;
+    height: 200px;
+    border-radius: 30px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+.si{
+    text-align: center;
+}
+
+#footer {
+    color: white;
+    margin-top: 100px;
+    background-color: rgb(31, 11, 11);
+    text-align: center;
+    padding: 50px;
+}
+i{
+    margin: 12px;
+}
