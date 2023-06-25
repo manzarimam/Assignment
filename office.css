@@ -1,0 +1,72 @@
+.header{
+    display: flex;
+
+}
+img{
+    width: 100px;
+}
+li{
+    text-decoration: none;
+    list-style: none;
+}
+a{
+    list-style: none;
+    text-decoration: none;
+    padding: 12px;
+    color: grey;
+}
+ul{
+    list-style: none;
+    text-decoration: none;
+    display: flex;
+}
+.select{
+    margin-left: 400px;
+}
+.ht{
+    display: flex;
+    justify-content: end;
+}
+.logo img{
+    margin-top: 15px;
+    margin-left: 32px;
+}
+.side img{
+    width: 100%;
+}
+.main{
+    display: flex;
+    justify-content: center;
+}
+.function img{
+    width: 50px;
+    margin-right: 72px;
+}
+.types{
+    text-align: center;
+    color: blue;
+    margin-right: 72px;
+    text-decoration: solid;
+}
+.function{
+    padding: 25px;
+    text-align: center;
+}
+.offer{
+    display: flex;
+  
+}
+.offer1 img{
+    width: 250px;
+}
+.par{
+   width: 250px;
+}
+.offer1{
+    padding: 20px;
+    margin-left: 80px;
+}
+.offer1 a{
+    color: blue;
+    
+}
